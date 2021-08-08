@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+{%- include header.html -%}
+
+<main class="page-content" aria-label="Content">
+    <div class="wrapper people">
+        {%- if site.people.size > 0 -%}
+        <h1>{{ page.list_title | default: "Team" }}</h1>
+        <div class="person-grid">
+            {% assign site_people = site.people | sort:"order" %}
+            {%- for person in site_people-%}
+            <a href="{{ person.url | relative_url }}">
+            <div class="person">
+                <img class="post-xsmall" src="{{ person.image | relative_url}}">
+                <div class="details">
+                    <h3>{{ person.name | escape }}</h3>
+                    {{ person.role }}<br>
+                </div>
+            </div>
+            </a>
+            {%- endfor -%}
+        </div>
+        {%- endif -%}
+    </div>
+</main>
+
+
+{%- include footer.html -%}
+
+</body>
+
+</html>

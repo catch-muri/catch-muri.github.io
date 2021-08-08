@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+{%- include header.html -%}
+
+<main class="" aria-label="Content">
+    <div class="home">
+      {%- if page.title -%}
+      <h1 class="page-heading">{{ page.title }}</h1>
+      {%- endif -%}
+
+      <!--<img src="/assets/logo.svg" class="home-logo" alt="logo">-->
+
+      <!--
+      <div class="lists">
+
+        {%- if site.posts.size > 0 -%}
+
+        <div class="list">
+          <h2 class="post-list-heading">{{ page.list_title | default: "News" }}</h2>
+          <ul class="post-list">
+            {%- for post in site.posts -%}
+            <li>
+              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+              <span class="post-meta">{{ post.date | date: date_format }}</span>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+              <!- -{%- if site.show_excerpts -%}- ->
+              {{ post.excerpt }}
+              <!- -{%- endif -%}- ->
+            </li>
+            {%- endfor -%}
+          </ul>
+        </div>
+
+        {%- endif -%}
+
+      </div>
+      -->
+
+    <div class="wrapper">
+
+      <div class="home-description">
+        {{ content }}
+      </div>
+
+      <div class="partners">
+
+        <!--
+        <div class="partners-grid lead">
+          {% for image in site.static_files %}
+          {% if image.path contains 'partners/lead' %}
+          <a href="{{ site.data.partner-sites[image.name] }}">
+          <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+          </a>
+          {% endif %}
+          {% endfor %}
+        </div>
+        -->
+
+	    <!--<h1>Partner Universities</h1>-->
+        <div class="partners-grid universities">
+        {% for image in site.static_files %}
+          {% if image.path contains 'partners/universities' %}
+          <a href="{{ site.data.partner-sites[image.name] }}">
+          <img src="{{ site.baseurl }}{{ image.path }}" alt="Partner logo"/>
+          </a>
+          {% endif %}
+        {% endfor %}
+        </div>
+
+	  <!--<h1>Other Participating Organisations</h1>
+        <div class="partners-grid others">
+          {% for image in site.static_files %}
+          {% if image.path contains 'partners/others' %}
+          <a href="{{ site.data.partner-sites[image.name] }}">
+          <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+          </a>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </div>-->
+
+    </div>
+
+      {%- if site.pages.size > 0 -%}
+
+      <div class="browse-topics">
+        {%- for page in site.pages -%}
+          {%- if page.title and page.categories contains "browse" -%}
+          <a class="browse-link" href="{{ page.url | relative_url }}">
+          <div class="browse-topic">
+            <span class="title">
+                {{ page.title }}
+            </span>
+            {{ page.browse-description }}
+          </div>
+          </a>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+
+      {%- endif -%}
+
+    </div>
+
+</main>
+
+{%- include footer.html -%}
+
+</body>
+
+</html>

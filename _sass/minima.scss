@@ -1,0 +1,70 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400|Ubuntu');
+
+// Define defaults for each variable.
+
+$base-font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-size:   16px !default;
+$base-font-weight: 300 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$title-font-family: "Open Sans", Helvetica;
+
+$spacing-unit:     30px !default;
+$text-color:       #111 !default;
+
+$background-color: white !default;
+$brand-color: #09529b !default;
+$second-tone-color: #e5c5bf;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$light-blue-color: #2271a8;
+$light-blue-color2: #e7eff7;
+
+$new-bg-color: #333845;
+$new-bg-fg-color: white;
+$new-bg-a-color: #aacce3;
+
+$table-text-align: left !default;
+
+// Image sizes
+$post-large: 800px;
+$post-medium: 500px;
+$post-small: 400px;
+$post-xsmall: 200px;
+
+// Width of the content area
+$content-width:    100% !default;
+$navi-break:       1130px;
+$on-smaller-palm:  600px !default;
+$on-palm:          800px !default;
+$on-laptop:        100% !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+;
