@@ -1,0 +1,6 @@
+---
+layout: page
+title:  "BUILDING HUMAN-MACHINE SHARED MODELS"
+subtitle: "Research Thrust 3"
+---
+Current approaches to cyber defence are human and data driven; they involve threat-intelligence analysts integrating information from various sources, and then deciding whether there is a threat. Unfortunately, with growing complexity of cybersecurity systems, a combination of simple human decision-making and purely data-driven tools is unlikely to scale to future autonomous defence. Rather, human analysts and cybersecurity systems must work as a collaborative team, that can coordinate their activities by tracking each other’s goals, intentions, beliefs, and task related situations and maintaining a shared mental model (SMM). In developing such a SMM, we need to understand how humans integrate information about themselves and other team members for making sense of team activities, and how the various sources of information are aggregated to make decisions. Additionally, to guide a coherent team, we need to build accurate dynamic models of human decision making that are adaptable and can inform the machine members of the team.

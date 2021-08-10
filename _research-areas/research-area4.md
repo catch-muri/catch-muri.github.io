@@ -1,0 +1,6 @@
+---
+layout: page
+title:  "ANTI-FRAGILITY AT TEAM LEVEL"
+subtitle: "Research Thrust 4"
+---
+In thrusts 1-3 we develop solutions for providing explanations, building machine learning bots that are robust against cybersecurity adversaries, and building shared mental models that can be used to guide a coherent team. The goal of this thrust is to put these pieces together to form a human-bot team that is not only robust to adversaries but can also perform well in the face of rare out-of-distribution inputs such as black swan events that are ubiquitous in cybersecurity. A major challenge in building a team-level anti-fragile solution is that a majority of prior work in the space of out-of-distribution generalisation have either involved continuous inputs such as images, or machines in isolation. In contrast, we have a different input modality and a human-bot team. A second challenge is that the vital involvement of humans in the loop can represent an attack surface that interacts non-linearly with attacks on machine learning systems. 

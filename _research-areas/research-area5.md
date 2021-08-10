@@ -1,0 +1,6 @@
+---
+layout: page
+title:  "VERIFYING COGNITIVE MODELS"
+subtitle: "Research Thrust 5"
+---
+Desirable properties of learning algorithms such as robustness have been certified for formally specified algorithms. This work is necessary but not sufficient to ensure sufficient trust in ML-based software systems when deployed in the context of human-bot cyber teams (HBCTs). In this thrust we propose to formally verify the trustworthiness of HBCT systems. Our focus is on system verification, in which we intend to verify the actual implementation of the ML components, ensuring the absence of both design- and implementation-level defects and vulnerabilities. In the case of a malware classifier, for instance, today’s verifications could establish that a model is resistant to evasion attacks. However, such alterations are unlikely to be defined in the same way as in the image domain. And since existing work has focused only on local robustness in which an ML model is verified to be robust at individual test points, today’s approaches cannot provide guarantees that such attacks will not be possible for brand new malware samples. Meaningful HBCT verification is possible only in the presence of high-fidelity formal models of human cognition.
