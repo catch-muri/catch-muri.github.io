@@ -21,8 +21,8 @@
 title: Joint MURI-AUSMURI in Cybersecurity Assurance for Teams of Computers and Humans
 email: contact@catch-muri.org
 description: >- # this means to ignore newlines until "baseurl:"
-domain: catch-muri.github.io
-url: https://catch-muri.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domain: catch-muri.org
+url: https://catch-muri.org # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: catch_muri
 github_username:  catch-muri
