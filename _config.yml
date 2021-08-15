@@ -36,7 +36,13 @@ plugins:
 collections:
   research-areas:
     output: true
-  people:
+  investigators:
+    output: true
+  postdocs:
+    output: true
+  phds:
+    output: true
+  alums:
     output: true
 
 # Exclude from processing.

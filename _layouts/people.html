@@ -9,10 +9,10 @@
 
 <main class="page-content" aria-label="Content">
     <div class="wrapper people">
-        {%- if site.people.size > 0 -%}
+        {%- if site.investigators.size > 0 -%}
         <h1>{{ page.list_title | default: "Principal Investigators" }}</h1>
         <div class="person-grid">
-            {% assign site_people = site.people | sort:"order" %}
+            {% assign site_people = site.investigators | sort:"order" %}
             {%- for person in site_people-%}
             <a href="{{ person.url | relative_url }}">
             <div class="person">
@@ -26,7 +26,60 @@
             </a>
             {%- endfor -%}
         </div>
+        {%- endif -%}
 
+        {%- if site.postdocs.size > 0 -%}
+        <h1>{{ page.list_title | default: "Postdoctoral Researchers" }}</h1>
+        <div class="person-grid">
+            {% assign site_people = site.postdocs | sort:"order" %}
+            {%- for person in site_people-%}
+            <a href="{{ person.url | relative_url }}">
+            <div class="person">
+                <img class="post-xsmall" src="{{ person.image | relative_url}}">
+                <div class="details">
+                    <h3>{{ person.name | escape }}</h3>
+                    {{ person.affiliation }}<br>
+                </div>
+            </div>
+            </a>
+            {%- endfor -%}
+        </div>
+        {%- endif -%}
+
+        {%- if site.phds.size > 0 -%}
+        <h1>{{ page.list_title | default: "PhD Students" }}</h1>
+        <div class="person-grid">
+            {% assign site_people = site.phds | sort:"order" %}
+            {%- for person in site_people-%}
+            <a href="{{ person.url | relative_url }}">
+            <div class="person">
+                <img class="post-xsmall" src="{{ person.image | relative_url}}">
+                <div class="details">
+                    <h3>{{ person.name | escape }}</h3>
+                    {{ person.affiliation }}<br>
+                </div>
+            </div>
+            </a>
+            {%- endfor -%}
+        </div>
+        {%- endif -%}
+
+        {%- if site.alums.size > 0 -%}
+        <h1>{{ page.list_title | default: "CATCH Alums" }}</h1>
+        <div class="person-grid">
+            {% assign site_people = site.alums | sort:"order" %}
+            {%- for person in site_people-%}
+            <a href="{{ person.url | relative_url }}">
+            <div class="person">
+                <img class="post-xsmall" src="{{ person.image | relative_url}}">
+                <div class="details">
+                    <h3>{{ person.name | escape }}</h3>
+                    <br>
+                </div>
+            </div>
+            </a>
+            {%- endfor -%}
+        </div>
         {%- endif -%}
     </div>
 </main>

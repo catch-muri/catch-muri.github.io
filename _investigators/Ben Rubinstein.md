@@ -5,7 +5,7 @@ title: "Professor Ben Rubinstein"
 role: "AUSMURI Lead"
 affiliation: "University of Melbourne"
 email: brubinstein@unimelb.edu.au
-homepage: http://bipr.net
+homepage: https://bipr.net
 categories: jekyll update
 image: assets/people/Ben_Rubinstein.jpg
 order: 2
