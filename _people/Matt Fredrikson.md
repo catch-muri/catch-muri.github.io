@@ -3,6 +3,7 @@ layout: person
 name: "Associate Professor Matt Fredrikson"
 title: "Associate Professor Matt Fredrikson"
 role: "Principal Investigator"
+affiliation: "Carnegie Mellon University"
 email: mfredrik@cs.cmu.edu
 homepage: https://www.cs.cmu.edu/~mfredrik/
 categories: jekyll update

@@ -3,6 +3,7 @@ layout: person
 name: "Professor Patrick McDaniel"
 title: "Professor Patrick McDaniel"
 role: "Principal Investigator"
+affiliation: "Penn State University"
 email: mcdaniel@cse.psu.edu
 homepage: https://patrickmcdaniel.org/
 categories: jekyll update

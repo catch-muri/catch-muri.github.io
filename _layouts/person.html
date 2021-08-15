@@ -16,12 +16,13 @@
             <img class="post-xsmall" src="{{ page.image | relative_url}}">
             <div class="details">
                 <h1>{{ page.name | escape }}</h1>
-                {{ page.role }}<br>
+                {{ page.affiliation }}<br>
                 {{ page.email }}
                 {%- if page.homepage -%}
                   <br>
                   <a href="{{ page.homepage }}">homepage</a>
                 {%- endif -%}
+                <br><br>{{ page.role }}
             </div>
             {%- if page.content -%}
             <div class="description">

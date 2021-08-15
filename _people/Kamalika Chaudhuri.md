@@ -3,6 +3,7 @@ layout: person
 name: "Associate Professor Kamalika Chaudhuri"
 title: "Associate Professor Kamalika Chaudhuri"
 role: "Principal Investigator"
+affiliation: "UC San Diego"
 email: kamalika@cs.ucsd.edu
 homepage: http://cseweb.ucsd.edu/~kamalika/
 categories: jekyll update

@@ -3,6 +3,7 @@ layout: person
 name: "Professor Ben Rubinstein"
 title: "Professor Ben Rubinstein"
 role: "AUSMURI Lead"
+affiliation: "University of Melbourne"
 email: brubinstein@unimelb.edu.au
 homepage: http://bipr.net
 categories: jekyll update

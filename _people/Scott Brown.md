@@ -3,6 +3,7 @@ layout: person
 name: "Professor Scott Brown"
 title: "Professor Scott Brown"
 role: "Principal Investigator"
+affiliation: "University of Newcastle"
 email: scott.brown@newcastle.edu.au
 homepage: https://www.newcastle.edu.au/profile/scott-brown
 categories: jekyll update

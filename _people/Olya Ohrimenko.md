@@ -3,6 +3,7 @@ layout: person
 name: "Dr Olya Ohrimenko"
 title: "Dr Olya Ohrimenko"
 role: "Principal Investigator"
+affiliation: "University of Melbourne"
 email: oohrimenko@unimelb.edu.au
 homepage: https://people.eng.unimelb.edu.au/oohrimenko/
 categories: jekyll update

@@ -3,6 +3,7 @@ layout: person
 name: "Professor Lujo Bauer"
 title: "Professor Lujo Bauer"
 role: "Principal Investigator"
+affiliation: "Carnegie Mellon University"
 email: lbauer@cmu.edu
 homepage: https://users.ece.cmu.edu/~lbauer/
 categories: jekyll update

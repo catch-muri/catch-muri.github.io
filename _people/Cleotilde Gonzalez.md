@@ -3,6 +3,7 @@ layout: person
 name: "Professor Cleotilde (Coty) Gonzalez"
 title: "Professor Cleotilde (Coty) Gonzalez"
 role: "Principal Investigator"
+affiliation: "Carnegie Mellon University"
 email: coty@cmu.edu
 homepage: https://www.cmu.edu/dietrich/sds/ddmlab/cotyweb/
 categories: jekyll update

@@ -3,6 +3,7 @@ layout: person
 name: "Professor Somesh Jha"
 title: "Professor Somesh Jha"
 role: "MURI Lead"
+affiliation: "University of Wisconsin–Madison"
 email: jha@cs.wisc.edu
 homepage: http://pages.cs.wisc.edu/~jha/
 categories: jekyll update

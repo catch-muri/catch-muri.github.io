@@ -3,6 +3,7 @@ layout: person
 name: "Associate Professor Toby Murray"
 title: "Associate Professor Toby Murray"
 role: "Principal Investigator"
+affiliation: "University of Melbourne"
 email: toby.murray@unimelb.edu.au
 homepage: https://people.eng.unimelb.edu.au/tobym/
 categories: jekyll update

@@ -3,6 +3,7 @@ layout: person
 name: "Professor Xiaojin (Jerry) Zhu"
 title: "Professor Xiaojin (Jerry) Zhu"
 role: "Principal Investigator"
+affiliation: "University of Wisconsin–Madison"
 email: jerryzhu@cs.wisc.edu
 homepage: http://pages.cs.wisc.edu/~jerryzhu/
 categories: jekyll update

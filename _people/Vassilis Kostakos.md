@@ -3,6 +3,7 @@ layout: person
 name: "Professor Vassilis Kostakos"
 title: "Professor Vassilis Kostakos"
 role: "Principal Investigator"
+affiliation: "University of Melbourne"
 email: vassilis.kostakos@unimelb.edu.au
 homepage: https://people.eng.unimelb.edu.au/vkostakos/
 categories: jekyll update

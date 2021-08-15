@@ -3,6 +3,7 @@ layout: person
 name: "Associate Professor Ami Eidels"
 title: "Associate Professor Ami Eidels"
 role: "Principal Investigator"
+affiliation: "University of Newcastle"
 email: ami.eidels@newcastle.edu.au
 homepage: https://www.newcastle.edu.au/profile/ami-eidels
 categories: jekyll update

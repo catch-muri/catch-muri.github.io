@@ -10,7 +10,7 @@
 <main class="page-content" aria-label="Content">
     <div class="wrapper people">
         {%- if site.people.size > 0 -%}
-        <h1>{{ page.list_title | default: "Team" }}</h1>
+        <h1>{{ page.list_title | default: "Principal Investigators" }}</h1>
         <div class="person-grid">
             {% assign site_people = site.people | sort:"order" %}
             {%- for person in site_people-%}
@@ -19,12 +19,14 @@
                 <img class="post-xsmall" src="{{ person.image | relative_url}}">
                 <div class="details">
                     <h3>{{ person.name | escape }}</h3>
+                    {{ person.affiliation }}<br>
                     {{ person.role }}<br>
                 </div>
             </div>
             </a>
             {%- endfor -%}
         </div>
+
         {%- endif -%}
     </div>
 </main>

@@ -3,6 +3,7 @@ layout: person
 name: "Professor Dali Kaafar"
 title: "Professor Dali Kaafar"
 role: "Principal Investigator"
+affiliation: "Macquarie University"
 email: Dali Kaafar <dali.kaafar@mq.edu.au>
 homepage: https://dali-kaafar.github.io/
 categories: jekyll update

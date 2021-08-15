@@ -3,6 +3,7 @@ layout: person
 name: "Professor Timothy Rogers"
 title: "Professor Timothy Rogers"
 role: "Principal Investigator"
+affiliation: "University of Wisconsin–Madison"
 email: ttrogers@wisc.edu
 homepage: https://psych.wisc.edu/Rogers/
 categories: jekyll update

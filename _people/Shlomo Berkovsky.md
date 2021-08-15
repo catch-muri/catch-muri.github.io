@@ -3,6 +3,7 @@ layout: person
 name: "Associate Professior Shlomo Berkovsky"
 title: "Associate Professior Shlomo Berkovsky"
 role: "Principal Investigator"
+affiliation: "Macquarie University"
 email: shlomo.berkovsky@mq.edu.au
 homepage: https://shlomo-berkovsky.github.io/
 categories: jekyll update
