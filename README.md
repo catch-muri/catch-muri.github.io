@@ -77,6 +77,10 @@ title:  "Research Area 2"
 ---
 ~~~~
 
+## Acknowledgements
+
+We thank the [ARC Training Centre in Cognitive Computing for Medical Technologies](https://github.com/eltimster/arc-medtechai) for serving as a template for this website's source.
+
 <!-- ## Creating a nested section
 1. Create a new folder in the `root` directory with the appropriate name of the section. Place the markdown files in the folder, and any further nesting in subfolders. **This template allows nesting with depth of at most 2.**
 
