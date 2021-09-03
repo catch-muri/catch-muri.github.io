@@ -2,6 +2,7 @@
 layout: research-areas
 title: Research
 categories: [navi]
+order: 2
 ---
 
 The {{ site.center_name }} will develop rigorous science for human-bot cybersecurity teams, with the goal of developing cohesive teams that are robust and anti-fragile to active human and machine learning adversaries. A significant collaborative effort, this initiative draws together eight MURI-funded researchers from Wisconsin, Carnegie Mellon, Penn State, UC San Diego and eight AUSMURI-funded researchers from the University of Melbourne, University of Newcastle, Macquarie. [Our multidisciplinary team]({{"people.html" | relative_url}}) draws together expertise in cybersecurity, artificial intelligence, human-computer interaction, psychology, and decision sciences.

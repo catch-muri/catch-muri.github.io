@@ -3,6 +3,7 @@ layout: page
 title: Contact
 categories: [navi]
 browse-description: Contact
+order: 4
 ---
 
 Email: {{ site.email }}
