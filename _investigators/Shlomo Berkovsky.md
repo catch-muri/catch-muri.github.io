@@ -1,7 +1,7 @@
 ---
 layout: person
-name: "Associate Professor Shlomo Berkovsky"
-title: "Associate Professor Shlomo Berkovsky"
+name: "Professor Shlomo Berkovsky"
+title: "Professor Shlomo Berkovsky"
 role: "Principal Investigator"
 affiliation: "Macquarie University"
 email: shlomo.berkovsky@mq.edu.au
