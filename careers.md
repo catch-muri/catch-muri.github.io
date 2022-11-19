@@ -7,7 +7,9 @@ browse-description: Career and graduate research opportunities in the Joint MURI
 
 [comment]: <> (Underscore past opportunities, double asterisk current)
 
-*There are currently no positions being advertised.*
+[comment]: <> *There are currently no positions being advertised.*
+
+**Currently open - Carnegie Mellon University: [1-year with possibility of 1-year renewal, Post Doctoral Fellow - Dynamic Decision Making Laboratory](https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Post-Doctoral-Fellow---Dynamic-Decision-Making-Laboratory_2017839)**
 
 <br>
 
