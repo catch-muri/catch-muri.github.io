@@ -21,6 +21,8 @@ McCaughey, Tristan, David M. Budden, Paul G. Sanfilippo, George EC Gooden, Li Fa
 
 -->
 
+Benjamin Tag, Niels van Berkel, Sunny Verma, Benjamin Zhao, Shlomo Berkovsky, Mohamed Ali Kaafar, Vassilis Kostakos, and Olga Ohrimenko. "DDoD: Dual Denial of Decision Attacks on Human-AI Teams". In: *IEEE Pervasive Computing*, accepted, 2023.
+
 Ryan Sheatsley, Blaine Hoak, Eric Pauley, and Patrick McDaniel. "The Space of Adversarial Strategies". In: *Proceedings of the 32nd USENIX Security Symposium*, to appear, 2023. \[[preprint](https://arxiv.org/abs/2209.04521)\]
 
 Yinuo Du, Baptiste Prébot, Xiaoli Xi, and Cleotilde Gonzalez. ["Towards Autonomous Cyber Defense: Predictions from a cognitive model"](https://journals.sagepub.com/doi/abs/10.1177/1071181322661504). In: *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, 66(1), 1121-–1125, 2022.
