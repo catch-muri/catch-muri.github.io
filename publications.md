@@ -21,7 +21,7 @@ McCaughey, Tristan, David M. Budden, Paul G. Sanfilippo, George EC Gooden, Li Fa
 
 -->
 
-Benjamin Tag, Niels van Berkel, Sunny Verma, Benjamin Zhao, Shlomo Berkovsky, Mohamed Ali Kaafar, Vassilis Kostakos, and Olga Ohrimenko. "DDoD: Dual Denial of Decision Attacks on Human-AI Teams". In: *IEEE Pervasive Computing*, accepted, 2023.
+Benjamin Tag, Niels van Berkel, Sunny Verma, Benjamin Zhao, Shlomo Berkovsky, Mohamed Ali Kaafar, Vassilis Kostakos, and Olga Ohrimenko. "DDoD: Dual Denial of Decision Attacks on Human-AI Teams". In: *IEEE Pervasive Computing*, accepted, 2023. \[[preprint](https://arxiv.org/abs/2212.03980)\]
 
 Ryan Sheatsley, Blaine Hoak, Eric Pauley, and Patrick McDaniel. "The Space of Adversarial Strategies". In: *Proceedings of the 32nd USENIX Security Symposium*, to appear, 2023. \[[preprint](https://arxiv.org/abs/2209.04521)\]
 
