@@ -21,9 +21,17 @@ McCaughey, Tristan, David M. Budden, Paul G. Sanfilippo, George EC Gooden, Li Fa
 
 -->
 
+Zhuoqun Huang, Neil G. Marchant, Keane Lucas, Lujo Bauer, Olga Ohrimenko, and Benjamin I. P. Rubinstein. "Certified Robustness of Learning-based Static Malware Detectors". arXiv:2207.11575 [cs.CR], 2023. \[[preprint](https://arxiv.org/abs/2302.01757)]
+
+Pengbo Yan. ["Proving Obliviousness of Probabilistic Algorithms with Formal Verification"](https://dl.acm.org/doi/abs/10.1145/3563768.3565547). In: *Companion Proceedings of the 2022 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH)*, pp. 25–28, 2022.
+
+Laiton Gregory Hedley, Murray S. Bennett, Jonathon Love, Joe Houpt, Scott Brown, and Ami Eidels. "Dynamic Behaviour in Competitive and Collaborative Human-Machine Teams". PsyArXiv, 2022. \[[preprint](https://psyarxiv.com/sq5gp/)]
+
+Murray S. Bennett, Laiton Gregory Hedley, Jonathon Love, Joe Houpt, Scott Brown, and Ami Eidels. "Human Performance in Competitive and Collaborative Human-Machine Teams". PsyArXiv, 2022. \[[preprint](https://psyarxiv.com/s7pj4/)]
+
 Benjamin Tag, Niels van Berkel, Sunny Verma, Benjamin Zhao, Shlomo Berkovsky, Mohamed Ali Kaafar, Vassilis Kostakos, and Olga Ohrimenko. "DDoD: Dual Denial of Decision Attacks on Human-AI Teams". In: *IEEE Pervasive Computing*, accepted, 2023. \[[preprint](https://arxiv.org/abs/2212.03980)\]
 
-Ryan Sheatsley, Blaine Hoak, Eric Pauley, and Patrick McDaniel. "The Space of Adversarial Strategies". In: *Proceedings of the 32nd USENIX Security Symposium*, to appear, 2023. \[[preprint](https://arxiv.org/abs/2209.04521)\]
+Ryan Sheatsley, Blaine Hoak, Eric Pauley, and Patrick McDaniel. ["The Space of Adversarial Strategies"](https://www.usenix.org/conference/usenixsecurity23/presentation/sheatsley). In: *Proceedings of the 32nd USENIX Security Symposium*, to appear, 2023. \[[preprint](https://arxiv.org/abs/2209.04521)\]
 
 Yinuo Du, Baptiste Prébot, Xiaoli Xi, and Cleotilde Gonzalez. ["Towards Autonomous Cyber Defense: Predictions from a cognitive model"](https://journals.sagepub.com/doi/abs/10.1177/1071181322661504). In: *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, 66(1), 1121-–1125, 2022.
 
