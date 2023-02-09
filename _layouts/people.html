@@ -29,7 +29,7 @@
         {%- endif -%}
 
         {%- if site.postdocs.size > 0 -%}
-        <h1>{{ page.list_title | default: "Postdoctoral Researchers" }}</h1>
+        <h1>{{ page.list_title | default: "Postdoctoral Researchers & Research Assistants" }}</h1>
         <div class="person-grid">
             {% assign site_people = site.postdocs | sort:"order" %}
             {%- for person in site_people-%}
