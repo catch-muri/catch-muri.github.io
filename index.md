@@ -11,5 +11,5 @@ conditions. This project aims to develop rigorous science for human-bot cybersec
 robust to active human and machine learning adversaries.
 
 <i>{{ site.project_title }} (CATCH)</i> is a joint U.S. Army Research Office (ARO) Multidisciplinary University Research Initiative (MURI) and 
-Australian Department of Industry, Science, Energy and Resources (DISER) US-Australia International Multiplinary University Research Initiative (AUSMURI)
+Australian Department of Industry, Science and Resources (DISR) US-Australia International Multiplinary University Research Initiative (AUSMURI)
 with total funding of USD \$6 million (over AUD \$8 million), over 3 years.
