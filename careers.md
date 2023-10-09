@@ -7,15 +7,17 @@ browse-description: Career and graduate research opportunities in the Joint MURI
 
 [comment]: <> (Underscore past opportunities, double asterisk current)
 
-[comment]: <> *There are currently no positions being advertised.*
+*There are currently no positions being advertised.*
 
-**Closing Jan 19 - University of Melbourne: [Research Fellows in AI-Human Teams for Cybersecurity](https://go.unimelb.edu.au/p73e)**
-
-**Currently open - Carnegie Mellon University: [1-year with possibility of 1-year renewal, Post Doctoral Fellow - Dynamic Decision Making Laboratory](https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Post-Doctoral-Fellow---Dynamic-Decision-Making-Laboratory_2017839)**
+[comment]: <> 
 
 <br>
 
 ### Past opportunities
+
+_Closed Jan 19, 2023 - University of Melbourne: [Research Fellows in AI-Human Teams for Cybersecurity](https://go.unimelb.edu.au/p73e)_
+
+_Closed - Carnegie Mellon University: [1-year with possibility of 1-year renewal, Post Doctoral Fellow - Dynamic Decision Making Laboratory](https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Post-Doctoral-Fellow---Dynamic-Decision-Making-Laboratory_2017839)_
 
 _Closed Dec 5, 2021 - Macquarie University: [3-year Postdoctoral Research Fellow in Cybersecurity and Robust Machine Learning](https://mq.wd3.myworkdayjobs.com/CareersatMQ/job/North-Ryde-Campus/Postdoctoral-Research-Fellow_R000003459-1)_
 
