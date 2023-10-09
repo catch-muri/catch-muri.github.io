@@ -21,7 +21,20 @@ McCaughey, Tristan, David M. Budden, Paul G. Sanfilippo, George EC Gooden, Li Fa
 
 -->
 
-Zhuoqun Huang, Neil G. Marchant, Keane Lucas, Lujo Bauer, Olga Ohrimenko, and Benjamin I. P. Rubinstein. "Certified Robustness of Learning-based Static Malware Detectors". arXiv:2207.11575 [cs.CR], 2023. \[[preprint](https://arxiv.org/abs/2302.01757)]
+Yiding Chen, Xiaojin Zhu, and Kirthevasan Kandasamy. "Mechanism design for collaborative normal mean estimation." In *Advances in Neural Information Processing Systems (NeurIPS23)*, accepted **spotlight**, 2023. \[[preprint](https://arxiv.org/abs/2306.06351)]
+
+Matt Fredrikson, Kaiji Lu, Somesh Jha, Saranya Vijayakumar, Vijay Ganesh, and Zifan Wang. "Grounding Neural Inference with Satisfiability Modulo Theories."
+ In *Advances in Neural Information Processing Systems (NeurIPS23)*, accepted **spotlight**, 2023. 
+
+Zhuoqun Huang, Neil G. Marchant, Keane Lucas, Lujo Bauer, Olga Ohrimenko, and Benjamin I. P. Rubinstein. "RS-Del: Edit distance robustness certificates for sequence classifiers". In *Advances in Neural Information Processing Systems (NeurIPS23)*, accepted, 2023. \[[preprint](https://arxiv.org/abs/2302.01757)]
+
+Kai Hu, Andy Zou, Zifan Wang, Klas Leino, and Matt Fredrikson. "Scaling in Depth: Unlocking Robustness Certification on ImageNet." In *Advances in Neural Information Processing Systems (NeurIPS23)*, accepted, 2023. \[[preprint](https://arxiv.org/abs/2301.12549)]
+
+Xuefeng Du, Yiyou Sun, Xiaojin Zhu, and Yixuan Li. "Dream the impossible: Outlier imagination with diffusion models". In *Advances in Neural Information Processing Systems (NeurIPS23)*, accepted, 2023. \[[preprint](https://arxiv.org/abs/2309.13415)]
+
+Nicholas Franzese, Adam Dziedzic, Christopher A. Choquette-Choo, Mark R. Thomas, Muhammad Ahmad Kaleem, Stephan Rabanser, Congyu Fang, Somesh Jha, Nicolas Papernot, and Xiao Wang. "Doubly Robust Peer-To-Peer Learning Protocol". In *Advances in Neural Information Processing Systems (NeurIPS23)*, accepted, 2023.
+
+Nicholas Rittler and Kamalika Chaudhuri. "Agnostic Multi-group Active Learning". In *Advances in Neural Information Processing Systems (NeurIPS23)*, accepted, 2023. \[[preprint](https://arxiv.org/abs/2306.01922)]
 
 Pengbo Yan. ["Proving Obliviousness of Probabilistic Algorithms with Formal Verification"](https://dl.acm.org/doi/abs/10.1145/3563768.3565547). In: *Companion Proceedings of the 2022 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH)*, pp. 25–28, 2022.
 
